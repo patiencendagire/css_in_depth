@@ -1,0 +1,53 @@
+p {
+line-height: 30%;
+text-align: left;
+color: rgb(250, 8, 218);
+direction: ltr;
+text-align: left;
+
+}
+img.a{
+    vertical-align: text-top;
+    width: 60;
+
+}
+h1 {
+    text-decoration-color: blueviolet;
+    text-shadow: 2px;
+    text-decoration-style: solid;
+    text-decoration-thickness: 3%;
+    text-decoration-line: underline;
+    text-indent: 5%;
+}
+body{
+    background-image: url(./images/med.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh ;
+    margin: 0%;
+    text-align: left;
+    overflow: visible;
+
+
+}
+ul.b{     
+        list-style-type: circle;
+        text-align: left;
+}
+ul.c{
+    list-style-type: square;
+    text-align: left;
+}
+ul.d{
+    list-style-type: upper-roman;
+    text-align: left;
+}
+.btn{
+    background-color: rgb(252, 147, 10);
+    margin: 50rem;
+    padding: 1rem;
+    color: white;
+    text-decoration-line: none;
+    margin-bottom: 60%;
+
+}
